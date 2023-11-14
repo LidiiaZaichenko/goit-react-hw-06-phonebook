@@ -1,6 +1,5 @@
 @import-normalize; /* bring in normalize.css styles */
 
 body {
-  background: url() center / cover no-repeat;
   min-height: 100vh;
 }
